@@ -4,6 +4,9 @@
 #include <stdlib.h>
 #include <iostream>
 #include <stdio.h>
+#include "Metadata.h"
+#include "FAT.h"
+#include "Data_Block.h"
 
 using namespace std;
 
@@ -12,6 +15,10 @@ using namespace std;
 
 
 class Disco {
+    Metadata data;
+    void abrir();
+    void crear();
+    void cerrar();
 
 };
 
