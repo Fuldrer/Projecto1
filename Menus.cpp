@@ -3,6 +3,7 @@
 //
 
 #include "Menus.h"
+#include "Disco.h"
 
 void Menus::menu1() {
     cout<<"Que desea hacer?"<<endl;
@@ -25,7 +26,7 @@ void Menus::menu1() {
 }
 
 void Menus::menu2() {
-    cout<<"----------------Creacion de Disco----------------"<<endl;
+    /*cout<<"----------------Creacion de Disco----------------"<<endl;
     cout<<"Ingrese nombre del disco:";
     string nombre_disk;
     cin>>nombre_disk;
@@ -34,7 +35,9 @@ void Menus::menu2() {
     cin>>cant_ent;
     cout<<"1.2)Ingrese cantidad de bloques:";
     int cant_block;
-    cin>>cant_block;
+    cin>>cant_block;*/
+    Disco disk;
+    disk.crear();
     menu3();
 }
 

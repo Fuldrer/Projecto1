@@ -17,8 +17,12 @@ CMakeFiles/Projecto_1.dir/FAT.cpp.obj
  C:/Users/Carlos/Documents/Github/Projecto1/FAT.cpp
  C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
 CMakeFiles/Projecto_1.dir/Menus.cpp.obj
+ C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.h
+ C:/Users/Carlos/Documents/Github/Projecto1/Disco.h
+ C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
  C:/Users/Carlos/Documents/Github/Projecto1/Menus.cpp
  C:/Users/Carlos/Documents/Github/Projecto1/Menus.h
+ C:/Users/Carlos/Documents/Github/Projecto1/Metadata.h
 CMakeFiles/Projecto_1.dir/Metadata.cpp.obj
  C:/Users/Carlos/Documents/Github/Projecto1/Metadata.cpp
  C:/Users/Carlos/Documents/Github/Projecto1/Metadata.h
@@ -26,5 +30,6 @@ CMakeFiles/Projecto_1.dir/main.cpp.obj
  C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.h
  C:/Users/Carlos/Documents/Github/Projecto1/Disco.h
  C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
+ C:/Users/Carlos/Documents/Github/Projecto1/Menus.h
  C:/Users/Carlos/Documents/Github/Projecto1/Metadata.h
  C:/Users/Carlos/Documents/Github/Projecto1/main.cpp
