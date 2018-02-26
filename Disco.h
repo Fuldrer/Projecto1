@@ -7,6 +7,7 @@
 #include "Metadata.h"
 #include "FAT.h"
 #include "Data_Block.h"
+#include <fstream>
 
 using namespace std;
 
@@ -15,6 +16,7 @@ using namespace std;
 
 
 class Disco {
+public:
     Metadata data;
     void abrir();
     void crear();

@@ -8,7 +8,7 @@
 
 struct FAT {
     char nombre;
-    int tamaño;
+    int tamano;
     char tipo;
     int padre;
     int primer_hijo;

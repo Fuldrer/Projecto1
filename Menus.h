@@ -12,7 +12,10 @@ using namespace std;
 
 
 class Menus {
+public:
     void menu1();
+
+private:
     void menu2();
     void menu3();
     void menu4();

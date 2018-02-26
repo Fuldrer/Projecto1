@@ -3,6 +3,7 @@
 //
 
 #include "Menus.h"
+#include "Disco.h"
 
 void Menus::menu1() {
     cout<<"Que desea hacer?"<<endl;
@@ -26,15 +27,8 @@ void Menus::menu1() {
 
 void Menus::menu2() {
     cout<<"----------------Creacion de Disco----------------"<<endl;
-    cout<<"Ingrese nombre del disco:";
-    string nombre_disk;
-    cin>>nombre_disk;
-    cout<<"1.1)Ingrese cantidad de Entradas:";
-    int cant_ent;
-    cin>>cant_ent;
-    cout<<"1.2)Ingrese cantidad de bloques:";
-    int cant_block;
-    cin>>cant_block;
+    Disco disk;
+    disk.crear();
     menu3();
 }
 
@@ -49,6 +43,25 @@ void Menus::menu3() {
     cout<<"2.5)Importar Archivo"<<endl;
     cout<<"2.6)Exportar Archivo"<<endl;
     cout<<"2.7)Regresar"<<endl;
+    int opcion;
+    cout<<"Eliga una Opcion"<<endl;
+    cin>>opcion;
+    switch (opcion){
+        case 1:
+            menu4();
+        case 2:
+            break;
+        case 3:
+            break;
+        case 4:
+            break;
+        case 5:
+            break;
+        case 6:
+            break;
+        case 7:
+            break;
+    }
 
 }
 
