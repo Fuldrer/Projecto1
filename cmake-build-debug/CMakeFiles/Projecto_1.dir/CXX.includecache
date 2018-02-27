@@ -6,25 +6,25 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Carlos/Documents/Github/Projecto1/Bitmap.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/Bitmap.cpp
 Bitmap.h
-C:/Users/Carlos/Documents/Github/Projecto1/Bitmap.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Bitmap.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Bitmap.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Bitmap.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/Data_Block.cpp
 Data_Block.h
-C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Data_Block.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Data_Block.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Disco.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/Disco.cpp
 Disco.h
-C:/Users/Carlos/Documents/Github/Projecto1/Disco.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Disco.h
 string.h
 -
 
-C:/Users/Carlos/Documents/Github/Projecto1/Disco.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Disco.h
 stdlib.h
 -
 iostream
@@ -32,47 +32,47 @@ iostream
 stdio.h
 -
 Metadata.h
-C:/Users/Carlos/Documents/Github/Projecto1/Metadata.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Metadata.h
 FAT.h
-C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
+C:/Users/Carlos Molina/Desktop/Projecto1/FAT.h
 Data_Block.h
-C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Data_Block.h
 fstream
 -
 
-C:/Users/Carlos/Documents/Github/Projecto1/FAT.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/FAT.cpp
 FAT.h
-C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
+C:/Users/Carlos Molina/Desktop/Projecto1/FAT.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
+C:/Users/Carlos Molina/Desktop/Projecto1/FAT.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Menus.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/Menus.cpp
 Menus.h
-C:/Users/Carlos/Documents/Github/Projecto1/Menus.h
-Disco.h
-C:/Users/Carlos/Documents/Github/Projecto1/Disco.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Menus.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Menus.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Menus.h
 iostream
 -
 stdio.h
 -
 stdlib.h
 -
+Disco.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Disco.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Metadata.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/Metadata.cpp
 Metadata.h
-C:/Users/Carlos/Documents/Github/Projecto1/Metadata.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Metadata.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/Metadata.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Metadata.h
 
-C:/Users/Carlos/Documents/Github/Projecto1/main.cpp
+C:/Users/Carlos Molina/Desktop/Projecto1/main.cpp
 iostream
 -
 Data_Block.h
-C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Data_Block.h
 FAT.h
-C:/Users/Carlos/Documents/Github/Projecto1/FAT.h
+C:/Users/Carlos Molina/Desktop/Projecto1/FAT.h
 stdio.h
 -
 stdlib.h
@@ -80,7 +80,7 @@ stdlib.h
 fstream
 -
 Disco.h
-C:/Users/Carlos/Documents/Github/Projecto1/Disco.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Disco.h
 Menus.h
-C:/Users/Carlos/Documents/Github/Projecto1/Menus.h
+C:/Users/Carlos Molina/Desktop/Projecto1/Menus.h
 

@@ -5,6 +5,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
+#include "Disco.h"
 
 using namespace std;
 #ifndef PROJECTO_1_MENUS_H
@@ -20,6 +21,9 @@ private:
     void menu3();
     void menu4();
     void menu5();
+    Disco disk;
+    string name;
+    string nom;
 };
 
 

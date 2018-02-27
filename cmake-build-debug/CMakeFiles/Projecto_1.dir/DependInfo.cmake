@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Carlos/Documents/Github/Projecto1/Bitmap.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Bitmap.cpp.obj"
-  "C:/Users/Carlos/Documents/Github/Projecto1/Data_Block.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Data_Block.cpp.obj"
-  "C:/Users/Carlos/Documents/Github/Projecto1/Disco.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Disco.cpp.obj"
-  "C:/Users/Carlos/Documents/Github/Projecto1/FAT.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/FAT.cpp.obj"
-  "C:/Users/Carlos/Documents/Github/Projecto1/Menus.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Menus.cpp.obj"
-  "C:/Users/Carlos/Documents/Github/Projecto1/Metadata.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Metadata.cpp.obj"
-  "C:/Users/Carlos/Documents/Github/Projecto1/main.cpp" "C:/Users/Carlos/Documents/Github/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/main.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/Bitmap.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Bitmap.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/Data_Block.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Data_Block.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/Disco.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Disco.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/FAT.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/FAT.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/Menus.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Menus.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/Metadata.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/Metadata.cpp.obj"
+  "C:/Users/Carlos Molina/Desktop/Projecto1/main.cpp" "C:/Users/Carlos Molina/Desktop/Projecto1/cmake-build-debug/CMakeFiles/Projecto_1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

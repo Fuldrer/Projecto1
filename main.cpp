@@ -10,15 +10,15 @@
 using namespace std;
 
 int main() {
-    //Menus menu;
-    //menu.menu1();
-    ifstream prueba;
+    Menus menu;
+    menu.menu1();
+    /*ifstream prueba;
     filebuf *pbuf;
     long size;
     char * buffer;
-    prueba.open("URF.mp3",ios::in|ios::binary);
+    prueba.open("Kia.png",ios::in|ios::binary);
     ofstream prueba2;
-    prueba2.open("URF2.mp3",ios::out|ios::binary);
+    prueba2.open("Kia2.png",ios::out|ios::binary);
     pbuf=prueba.rdbuf();
 
     // get file size using buffer's members
@@ -36,7 +36,7 @@ int main() {
     // write content to Jashnebahaara1.mp3
 
     prueba2.write(buffer,size);
-    prueba2.close();
+    prueba2.close();*/
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }

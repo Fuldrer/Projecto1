@@ -6,12 +6,15 @@
 #include <string.h>
 
 void Disco::abrir() {
-     //Pedir nombre del disco y hacer fopen()
-}
-
-void Disco::cerrar() {
-    //Hacer fclose al archivo abierto en ese momento  regresar al menu1
-
+    cout<<"Nombre del disco a abrir"<<endl;
+    cin>>diskname;
+    ifstream diskopen;
+    long tam2;
+    filebuf *pbuf2;
+    diskopen.open(diskname,ios::in|ios::binary);
+    pbuf2=diskopen.rdbuf();
+    tam2=pbuf2->pubseekoff (0,ios::end,ios::in);
+    tamdisk = tam2;
 }
 
 void Disco::crear() {
@@ -51,5 +54,29 @@ void Disco::crear() {
     }
     creacion.close();
 
+}
+
+void Disco::importar(string nombre) {
+    ifstream prueba;
+    filebuf *pbuf;
+    char* data;
+    long tam;
+    prueba.open(nombre,ios::in|ios::binary);
+    pbuf=prueba.rdbuf();
+    tam=pbuf->pubseekoff (0,ios::end,ios::in);
+    pbuf->pubseekpos (0,ios::in);
+    data=new char[tam];
+    buffer = new char[tam];
+    size = tam;
+    buffer = data;
+    pbuf->sgetn (data,tam);
+    prueba.close();
+}
+
+void Disco::exportar(string nombre) {
+    ofstream prueba2;
+    prueba2.open(nombre,ios::out|ios::binary);
+    prueba2.write(this->buffer,this->size);
+    prueba2.close();
 }
 
